@@ -8,7 +8,7 @@ Embark on a perilous journey through a whimsical world filled with traps and pla
 ## Set up project:
 - Clone this repository to your local machine using Git
 - Open unity hub
-- Click on Add button and navigate oppened file explorer to the clonned project
+- Click on Add button and navigate oppened file explorer to the cloned project
 - Press the project just created in your unity hub
 
 ## Start Game:
